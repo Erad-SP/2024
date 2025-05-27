@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     ERAD-SP 2024 - Escola Regional de Alto Desempenho do Estado de São Paulo, ERADSP2024, ERADSP 2024
 
 baseurl: "/eradsp2024" # the subpath of your site, e.g. /blog
-url: "https://erad-sp.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://erad-sp.github.io/2024/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
